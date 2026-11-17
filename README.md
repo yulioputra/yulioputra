@@ -14,7 +14,7 @@
   <a href="https://LINK_PORTOFOLIO_ANDA.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
-  <a href="yulioputra112233@gmail.com">
+  <a href="mailto:yulioputra112233@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -31,14 +31,14 @@
 ### 🛠️ Tech Stack & Programming Languages
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py" alt="Languages" />
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,cpp,cs,sql" alt="Languages" />
   
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" alt="Frameworks" />
+  <h3>Frameworks, Libraries & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs,express,mysql,mongodb" alt="Frameworks and Databases" />
 
-  <h3>Tools & Environments</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,photoshop,windows" alt="Tools" />
+  <h3>Tools, Editors & Operating Systems</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,photoshop,windows,linux" alt="Tools" />
 </div>
 
 ---

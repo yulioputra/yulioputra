@@ -6,6 +6,15 @@
 </div>
 
 <!-- ================================================================= -->
+<!-- GLOBAL MULTI-LANGUAGE TRANSLATE WIDGET                            -->
+<!-- ================================================================= -->
+<div align="center">
+  <a href="https://translate.google.com/?sl=auto&tl=en&text=https%3A%2F%2Fgithub.com%2Fyulioputra&op=translate" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Translate_Profile_to_Any_Language-Click_Here_to_Read-blueviolet?style=for-the-badge&logo=google-translate&logoColor=white" alt="Translate Widget">
+  </a>
+</div>
+
+<!-- ================================================================= -->
 <!-- TYPING DYNAMIC EXPERT ROLES                                       -->
 <!-- ================================================================= -->
 <p align="center">
@@ -92,7 +101,7 @@
   </table>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulioputra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.api/api/top-langs/?username=yulioputra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
   <br><br>
 

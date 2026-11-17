@@ -1,14 +1,20 @@
-<!-- HEADER BANNER ANIMASI -->
+<!-- ========================================== -->
+<!-- HEADER BANNER ANIMASI UTAMA                -->
+<!-- ========================================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8,25&height=220&section=header&text=Hi%20there!%20%F0%9F%91%8B%20I'm%20Yulio%20Putra&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<!-- TYPING DYNAMIC ROLE -->
+<!-- ========================================== -->
+<!-- TYPING DYNAMIC ROLE (ANIMASI TEKS BERGERAK)-->
+<!-- ========================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Vibe+Coder+%F0%9F%94%A5;Systems+Architecture+Expert;Proudly+From+Indonesia+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Vibe+Coder+%F0%9F%94%A5;SMK+Software+Engineering;Proudly+From+Indonesia+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
 </p>
 
-<!-- QUICK ACTION BUTTONS / SOCIALS -->
+<!-- ========================================== -->
+<!-- QUICK ACTION BUTTONS / SOCIAL MEDIA LINKS  -->
+<!-- ========================================== -->
 <p align="center">
   <a href="https://yulioputra.github.io/pweb/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Project-UMKM_Nexus-%236366f1?style=for-the-badge&logoColor=white" alt="Live Website">
@@ -26,6 +32,9 @@
 
 ---
 
+<!-- ========================================== -->
+<!-- SECTION: ABOUT ME & BACKGROUND (TABEL 2 KOLOM) -->
+<!-- ========================================== -->
 ### ⚡ Professional Overview & Vibe Coding Philosophy
 
 <table width="100%">
@@ -34,6 +43,7 @@
       <h3>👨‍💻 Who I Am</h3>
       <ul>
         <li><b>Role:</b> Full-Stack Developer & Vibe Coder.</li>
+        <li><b>Education:</b> SMK Software Engineering Student.</li>
         <li><b>Origin:</b> Proudly based in <b>Indonesia 🇮🇩</b>.</li>
         <li><b>Focus:</b> Building high-performance web systems, single-file architectures, and clean backend logic.</li>
         <li><b>Mantra:</b> <i>"Build fast, write clean logic, ship with absolute confidence."</i></li>
@@ -52,6 +62,9 @@
 
 ---
 
+<!-- ========================================== -->
+<!-- SECTION: TECH STACK & ECOSYSTEM (KATEGORI) -->
+<!-- ========================================== -->
 ### 🛠️ Comprehensive Tech Stack & Ecosystem
 
 <div align="center">
@@ -67,6 +80,9 @@
 
 ---
 
+<!-- ========================================== -->
+<!-- SECTION: FLAGSHIP PROJECT (UMKM NEXUS)     -->
+<!-- ========================================== -->
 ### 🚀 Featured Flagship Project: UMKM Nexus Enterprise
 
 > Sebuah platform web app katalog digital kuliner Nusantara berarsitektur *single-file* yang dirancang untuk efisiensi tinggi, dilengkapi dengan:
@@ -77,6 +93,9 @@
 
 ---
 
+<!-- ========================================== -->
+<!-- SECTION: GITHUB EXPERT METRICS             -->
+<!-- ========================================== -->
 ### 📊 GitHub Expert Metrics & Analytics
 
 <div align="center">
@@ -85,7 +104,9 @@
 
 ---
 
-<!-- FOOTER BANNER -->
+<!-- ========================================== -->
+<!-- FOOTER BANNER                              -->
+<!-- ========================================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8,25&height=110&section=footer" />
 </div>

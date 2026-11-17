@@ -2,14 +2,14 @@
 <!-- MASTER BANNER - WARM DARK & AMBER AESTHETIC                       -->
 <!-- ================================================================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:292524,100:451a03&height=260&section=header&text=YULIO%20PUTRA%20%E2%9A%A1%20PLAYER%20&%20CODE&fontSize=24&fontColor=fbbf24&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:292524,100:451a03&height=260&section=header&text=YULIO%20PUTRA%20%E2%9A%A1%20SOFTWARE%20ENGINEERING&fontSize=24&fontColor=fbbf24&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <!-- ================================================================= -->
-<!-- DYNAMIC TYPING ANIMATION (GAMING & CODE VIBES)                    -->
+<!-- DYNAMIC TYPING ANIMATION                                          -->
 <!-- ================================================================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=%5BPLAYER%3C%2F%3E%5D+SMK+Software+Engineering+Student;LEVEL+UP%3A+Always+curious+about+how+computers+work;QUEST%3A+Building+apps+%26+websites+for+everyone;STATUS%3A+Self-Taught+Mindset+%26+Keep+Pushing+Forward" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=SMK+Software+Engineering+Student+from+Indonesia;Always+curious+about+how+computers+work;Learning+to+build+apps+%26+websites+for+everyone;Dreaming+to+create+impactful+tech+solutions;Self-Taught+Mindset+%26+Keep+Pushing+Forward" alt="Typing SVG" />
 </p>
 
 <!-- ================================================================= -->
@@ -33,7 +33,7 @@
 <!-- SECTION: ABOUT ME                                                 -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>🎮 PLAYER INFO // ABOUT ME</h3>
+<h3>✨ About Me</h3>
 </div>
 
 <p align="center">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yulioputra&color=d97706&style=flat-square&label=PLAYER+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=yulioputra&color=d97706&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 <!-- SECTION: CURRENT FOCUS & GOALS                                    -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>⚡ SKILL TREE & CURRENT FOCUS</h3>
+<h3>⚡ Current Focus & Learning Journey</h3>
 </div>
 
 <table width="100%">
@@ -66,19 +66,19 @@
 <td width="50%" valign="top">
 <h3>💻 App & Web Development</h3>
 <ul>
-<li><b>Application Logic:</b> Learning the fundamentals of software architecture and Object-Oriented Programming (OOP) with Java.</li>
-<li><b>Web Engineering:</b> Building dynamic, modern websites using PHP and the Laravel framework.</li>
-<li><b>Frontend & UI:</b> Crafting clean, responsive user interfaces with HTML, CSS, and JavaScript.</li>
-<li><b>Database Systems:</b> Designing structured databases using MySQL, PostgreSQL, and SQL.</li>
+<li><b>Application Logic:</b> Learning OOP & software architecture with Java.</li>
+<li><b>Web Engineering:</b> Building apps using PHP & Laravel framework.</li>
+<li><b>Frontend & UI:</b> Crafting interfaces with HTML, CSS & JavaScript.</li>
+<li><b>Database Systems:</b> Designing structured data with MySQL & SQL.</li>
 </ul>
 </td>
 <td width="50%" valign="top">
 <h3>🚀 Vision & Developer Tools</h3>
 <ul>
-<li><b>Goal-Driven Building:</b> Focused on creating practical apps and websites that solve real problems for wide audiences.</li>
-<li><b>Version Control:</b> Managing projects and collaborating cleanly using Git and GitHub.</li>
-<li><b>AI-Assisted Learning:</b> Leveraging modern AI tools to accelerate coding understanding and debugging.</li>
-<li><b>Continuous Growth:</b> Exploring Linux CLI environments, low-level systems, and modern IDEs every day.</li>
+<li><b>Goal-Driven:</b> Creating practical apps that solve real problems.</li>
+<li><b>Version Control:</b> Managing projects cleanly using Git & GitHub.</li>
+<li><b>AI Assistance:</b> Leveraging modern AI tools to accelerate learning.</li>
+<li><b>System Exploration:</b> Exploring Linux CLI and developer environments.</li>
 </ul>
 </td>
 </tr>
@@ -87,10 +87,10 @@
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: COMPLETE TECH STACK & ECOSYSTEM                          -->
+<!-- SECTION: TECH STACK & ECOSYSTEM                                   -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>🕹️ INVENTORY // TECH STACK</h3>
+<h3>🛠️ Languages, Frameworks & Tools</h3>
 
 <p><b>Core & Systems Programming Languages</b></p>
 <p>
@@ -130,7 +130,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" annot="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -140,10 +140,10 @@
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: GITHUB STATS & ACHIEVEMENTS                                -->
+<!-- SECTION: GITHUB STATS & ANALYTICS                                 -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>🏆 PLAYER ACHIEVEMENTS & STATS</h3>
+<h3>📊 GitHub Activity & Stats</h3>
 </div>
 
 <p align="center">
@@ -163,11 +163,11 @@
 <!-- SECTION: CONTRIBUTION ACTIVITY GRAPH                              -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>📈 XP / GRINDING ACTIVITY GRAPH</h3>
+<h3>📈 Contribution Graph</h3>
 </div>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=yulioputra&theme=gruvbox&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yulioputra&theme=gruvbox&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <!-- ================================================================= -->

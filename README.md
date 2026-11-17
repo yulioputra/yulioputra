@@ -46,25 +46,15 @@
 ### 📊 GitHub Expert Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yulioputra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=30&ring_color=00ffcc" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yulioputra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Yulio's GitHub Stats" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yulioputra&theme=radical&hide_border=true&fire=ff6600" alt="GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulioputra&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" /></td>
-    </tr>
-  </table>
-</div>
-
-<!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yulioputra/yulioputra/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yulioputra&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yulioputra&theme=radical&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulioputra&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---

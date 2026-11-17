@@ -1,19 +1,19 @@
 <!-- ================================================================= -->
-<!-- MASTER BANNER - WARM DARK & AMBER AESTHETIC                       -->
+<!-- MASTER BANNER - CYBER GAMING NEON (BLACK, GREEN, BLUE)           -->
 <!-- ================================================================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,50:292524,100:451a03&height=260&section=header&text=YULIO%20PUTRA%20%E2%9A%A1%20SOFTWARE%20ENGINEERING&fontSize=24&fontColor=fbbf24&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:021024,100:002b14&height=260&section=header&text=YULIO%20PUTRA%20%E2%9A%A1%20GAME%20%26%20CODE%20ARCHITECT&fontSize=22&fontColor=00ff66&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <!-- ================================================================= -->
-<!-- DYNAMIC TYPING ANIMATION                                          -->
+<!-- DYNAMIC TYPING ANIMATION (GAMING & CODE VIBES)                    -->
 <!-- ================================================================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=SMK+Software+Engineering+Student+from+Indonesia;Always+curious+about+how+computers+work;Learning+to+build+apps+%26+websites+for+everyone;Dreaming+to+create+impactful+tech+solutions;Self-Taught+Mindset+%26+Keep+Pushing+Forward" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=%5BPlayer%3C%2F%3E%5D+SMK+Software+Engineering+Student;Level+Up%3A+Learning+Java%2C+Laravel+%26+Systems;Mission%3A+Build+Apps+%26+Websites+for+the+World;Status%3A+Grinding+Code+%26+Exploring+New+Tech" alt="Typing SVG" />
 </p>
 
 <!-- ================================================================= -->
-<!-- SOCIAL & CONTACT CHANNELS                                         -->
+<!-- SOCIAL & GAMER CHANNELS                                           -->
 <!-- ================================================================= -->
 <p align="center">
 <a href="https://www.linkedin.com/in/yulio-putra-182293450?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
@@ -23,17 +23,17 @@
 <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="mailto:yulioputra112233@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-%23D97706.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/DISPATCH_MAIL-%2300FF66.svg?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
 </a>
 </p>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: ABOUT ME                                                 -->
+<!-- SECTION: PLAYER PROFILE (ABOUT ME)                                -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>✨ About Me</h3>
+<h3>🎮 PLAYER STATUS // ABOUT ME</h3>
 </div>
 
 <p align="center">
@@ -49,16 +49,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yulioputra&color=d97706&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=yulioputra&color=00ff66&style=flat-square&label=PLAYER+VIEWS" alt="Visitor Count" />
 </p>
 
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: CURRENT FOCUS & GOALS                                    -->
+<!-- SECTION: SKILLS & GAMEPLAY STATS                                  -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>⚡ Current Focus & Learning Journey</h3>
+<h3>⚡ SKILL TREE & LEARNING JOURNEY</h3>
 </div>
 
 <table width="100%">
@@ -87,10 +87,10 @@
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: TECH STACK & ECOSYSTEM                                   -->
+<!-- SECTION: TECH STACK (GAME INVENTORY)                              -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>🛠️ Languages, Frameworks & Tools</h3>
+<h3>🛠️ INVENTORY // TECH STACK</h3>
 
 <p><b>Core & Systems Programming Languages</b></p>
 <p>
@@ -140,39 +140,39 @@
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: GITHUB STATS & ANALYTICS                                 -->
+<!-- SECTION: GITHUB STATS & GAMER ANALYTICS                           -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>📊 GitHub Activity & Stats</h3>
+<h3>📊 PLAYER ACHIEVEMENTS & STATS</h3>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yulioputra&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yulioputra&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yulioputra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yulioputra&theme=tokyonight&hide_border=true&fire=00ff66" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulioputra&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulioputra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yulioputra&theme=gruvbox&no-frame=true&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yulioputra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
 <!-- ================================================================= -->
 <!-- SECTION: CONTRIBUTION ACTIVITY GRAPH                              -->
 <!-- ================================================================= -->
 <div align="center">
-<h3>📈 Contribution Graph</h3>
+<h3>📈 XP / GRINDING ACTIVITY GRAPH</h3>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yulioputra&theme=gruvbox&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yulioputra&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <!-- ================================================================= -->
 <!-- FOOTER                                                            -->
 <!-- ================================================================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:451a03,50:292524,100:1c1917&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b14,50:021024,100:000000&height=120&section=footer" />
 </div>

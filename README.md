@@ -1,19 +1,19 @@
 <!-- ================================================================= -->
-<!-- HEADER BANNER ANIMASI UTAMA - CYBERPUNK WAVE                      -->
+<!-- HEADER BANNER ANIMASI UTAMA - CYBERNETIC MATRIX                   -->
 <!-- ================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8,25&height=260&section=header&text=YULIO%20PUTRA%20%E2%9A%A1%20ELITE%20SYSTEM%20ENGINEER&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8,25&height=280&section=header&text=YULIO%20PUTRA%20%E2%9A%A1%20SYSTEM%20ARCHITECT&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <!-- ================================================================= -->
-<!-- DYNAMIC TYPING MASTER CORE ANIMATION                              -->
+<!-- DYNAMIC TYPING MASTER CORE EXPERTISE                              -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Core+Systems+Architecture+%26+Kernel+Logic;Distributed+Backend+%26+High-Throughput+APIs;Advanced+DevOps+%26+Linux+Infrastructure;Elite+Full-Stack+Code+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Core+Systems+Architecture+%26+Kernel+Logic;AI+Integration+%26+LLM+Ecosystem;Advanced+DevOps+%26+Linux+Infrastructure;Elite+Full-Stack+Code+Practitioner" alt="Typing SVG" />
 </p>
 
 <!-- ================================================================= -->
-<!-- SECURE NETWORK PROTOCOLS & SOCIAL CHANNELS (ANIMATED SHIELDS)     -->
+<!-- SECURE NETWORK PROTOCOLS & SOCIAL CHANNELS                        -->
 <!-- ================================================================= -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yulio-putra-182293450?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
@@ -30,7 +30,7 @@
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: SYSTEM ARCHITECTURE & PHILOSOPHY ANIMATED CARD           -->
+<!-- SECTION: SYSTEM ARCHITECTURE & PHILOSOPHY                         -->
 <!-- ================================================================= -->
 <div align="center">
   <h3>⚡ Core Expert Domains & Technical Philosophy</h3>
@@ -39,11 +39,11 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Systems & Backend Engineering</h3>
+      <h3>💻 Systems & AI Engineering</h3>
       <ul>
-        <li><b>Architecture:</b> Microservices, Distributed Systems, & Event-Driven Patterns.</li>
-        <li><b>Backend Core:</b> High-throughput API design, asynchronous processing, & robust server-side execution.</li>
-        <li><b>Database Engineering:</b> Relational data normalization, query optimization, indexing, and NoSQL scalability.</li>
+        <li><b>Architecture:</b> Microservices, Distributed Systems, & LLM Integration.</li>
+        <li><b>Backend Core:</b> High-throughput API design, asynchronous processing, & smart automation.</li>
+        <li><b>Database Engineering:</b> Relational data normalization, vector embeddings, & scalable data storage.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -60,16 +60,17 @@
 ---
 
 <!-- ================================================================= -->
-<!-- SECTION: ULTIMATE COMPUTER SCIENCE ECOSYSTEM                      -->
+<!-- SECTION: ULTIMATE COMPUTER SCIENCE & AI ECOSYSTEM                 -->
 <!-- ================================================================= -->
 <div align="center">
-  <h3>🛠️ Ultimate Computer Science Ecosystem & Tech Stack</h3>
+  <h3>🛠️ Ultimate Computer Science & AI Ecosystem</h3>
 </div>
 
 <div align="center">
 
-| Domain Kategori | Jajaran Teknologi & Perangkat Komputer Terlengkap |
+| Domain Kategori | Jajaran Teknologi, Perangkat & Model AI Terlengkap |
 | :--- | :--- |
+| **🤖 Artificial Intelligence & LLMs** | ![OpenAI / ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white) ![xAI Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
 | **Systems & Core Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) |
 | **Web & Scripting Layer** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Databases & Caching** | ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) |
@@ -89,7 +90,7 @@
 
 <div align="center">
 
-  <!-- GitHub Stats & Streak Stats (Live Rendered Cards) -->
+  <!-- GitHub Stats & Streak Stats -->
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=yulioputra&show_icons=true&theme=radical&hide_border=true&count_private=true&animated=true" alt="GitHub Stats" /></td>
@@ -102,7 +103,7 @@
 
   <br><br>
 
-  <!-- GitHub Trophies (Animated Tier System) -->
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=yulioputra&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 
 </div>
@@ -130,5 +131,5 @@
     <img src="https://komarev.com/ghpvc/?username=yulioputra&color=blueviolet&style=for-the-badge&label=Core+Profile+Visitors" alt="Visitor Count" />
   </p>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8,25&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8,25&height=120&section=footer" />
 </div>

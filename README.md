@@ -6,10 +6,10 @@
 </div>
 
 <!-- ================================================================= -->
-<!-- DYNAMIC TYPING ANIMATION                                          -->
+<!-- DYNAMIC TYPING ANIMATION (PIXEL FONT & LARGER SIZE)               -->
 <!-- ================================================================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&lines=SMK+Software+Engineering+Student+from+Indonesia;Always+curious+about+how+computers+work;Learning+to+build+apps+%26+websites+for+everyone;Dreaming+to+create+impactful+tech+solutions;Self-Taught+Mindset+%26+Keep+Pushing+Forward" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=16&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=800&lines=SMK+Software+Engineering+Student+from+Indonesia;Always+curious+about+how+computers+work;Learning+to+build+apps+%26+websites+for+everyone;Dreaming+to+create+impactful+tech+solutions;Self-Taught+Mindset+%26+Keep+Pushing+Forward" alt="Typing SVG" />
 </p>
 
 <!-- ================================================================= -->
